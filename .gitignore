@@ -1,0 +1,5 @@
+matched_trials/
+__pycache__/
+*.pyc
+.venv/
+.claude/
